@@ -36,6 +36,8 @@ calculadora-http/
 ├── calculator.js   # Módulo com as funções matemáticas
 ├── server.js       # Servidor HTTP e lógica de rotas
 ├── index.html      # Interface visual do usuário
+├── style.css       # Estilização da interface do usuário
+├── README.MD       # Descrição do projeto 
 ```
 
 ---
