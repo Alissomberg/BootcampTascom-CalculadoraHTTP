@@ -50,12 +50,7 @@ calculadora-http/
 
 ### Passo a Passo
 
-1. Clone o repositório ou baixe os arquivos:
-
-```bash
-mkdir calculadora-http
-cd calculadora-http
-```
+1. Clone o repositório ou baixe os arquivos.
 
 2. Inicie o servidor:
 
@@ -63,7 +58,7 @@ cd calculadora-http
 node server.js
 ```
 
-3. Abra o index.html no navegador:
+3. Abra o index.html no navegador.
 
 ---
 
