@@ -57,24 +57,13 @@ mkdir calculadora-http
 cd calculadora-http
 ```
 
-2. Inicie o projeto e instale as dependências (caso use o cliente original):
-
-```bash
-npm init -y
-npm install readline-sync
-```
-
-3. Inicie o servidor:
+2. Inicie o servidor:
 
 ```bash
 node server.js
 ```
 
-4. Acesse no navegador:
-
-```
-http://localhost:3000
-```
+4. Abra o index.html no navegador:
 
 ---
 
