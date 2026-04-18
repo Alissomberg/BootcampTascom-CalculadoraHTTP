@@ -61,7 +61,7 @@ cd calculadora-http
 node server.js
 ```
 
-4. Abra o index.html no navegador:
+3. Abra o index.html no navegador:
 
 ---
 
