@@ -24,7 +24,6 @@ O servidor processa as seguintes operações matemáticas:
 - **Node.js:** Ambiente de execução para o backend.
 - **Módulo HTTP:** Para criação do servidor e gerenciamento de requisições/respostas.
 - **Módulo URL:** Para realizar o parse das query strings enviadas pelo navegador.
-- **Módulo FS (File System):** Para servir o arquivo estático HTML aos clientes.
 - **HTML5 & CSS3:** Para a construção da interface visual.
 - **JavaScript (ES6+):** Lógica de cálculo e manipulação do DOM.
 
